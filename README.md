@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @martonbn
-- 🦄 Wannabe Unicorn Developer 
+- Student at University of Miskolc 🏫
+- Wannabe Unicorn Developer 🦄 
 
 
 <!---
