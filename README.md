@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martonbn
+- 👋 Hi, I’m @martonban
 - 🏫 Student at University of Miskolc 
 - 🦄 Wannabe Unicorn Developer  
 
