@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @martonban
 - 🏫 Student at University of Miskolc 
 - 🌐 Web Development Specialization
-- 🤤 Trying Myself At Computer Graphics Development
-- 🎨 Hobby 3D/Vector Designer and a Game Developer
+- 🤤 Wannabe C++ and Computer Graphics Developer
+- 🎨 Hobby Illustrator and a Game Developer
 
 
 <!---
