@@ -2,7 +2,7 @@
 - 🏫 Student at University of Miskolc 
 - 🌐 Web Development Specialization
 - 🤤 Wannabe C++ and Computer Graphics Developer
-- 🎨 Hobby Illustrator and a Game Developer
+- 🎨 Hobby 3D Artist and Game Developer
 
 
 <!---
