@@ -3,8 +3,8 @@
 - 🌐 Web Development Specialization
 - 🤤 Wannabe C++ and Computer Graphics Developer
 - 🎨 Hobby 3D Artist and Game Developer
-- ⚙️ Current project: 🕹️ A platformer game
-- 📖 Lerning: Shaders and the basics of OpenGL
+- ⚙️ Current project: 🕹️ A puzzle game
+- 📖 Lerning: Basics of OpenGL
 
 
 <!---
