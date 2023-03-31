@@ -5,6 +5,8 @@
 - 🎨 Hobby 3D Artist and Game Developer
 - 📖 Lerning: Basics of OpenGL
 
+<a href = "https://github.com/martonban/ComputerGraphicsPortfolio">Portfolio</a>
+
 
 <!---
 martonbn/martonbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
