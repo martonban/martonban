@@ -5,6 +5,7 @@
 - 🎨 Hobby Artist (3D, Pixel Art)
 - 📖 Lerning: Basics of OpenGL
 
+<a href="https://github.com/martonban/ComputerGraphicsLinks">My Graphics Link Collection</a>
 <a href = "https://github.com/martonban/Portfolio">Portfolio</a>
 
 
