@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martonban
 - 🏫 Student at University of Miskolc - Web Development Specialization
-- 🤖 Developing a robot at evosoft
+- 🤖 Developing a robot OS at evosoft
 - 📖 Currently Lerning: OpenGL and Software Rendering
 - 🤤 Wannabe Computer Graphics Developer
 - 🎨 Hobby Artist (3D, Pixel Art)
