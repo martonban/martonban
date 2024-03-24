@@ -3,7 +3,6 @@
 - 🤖 Developing a robot at evosoft
 - 📖 Currently Lerning: OpenGL and Software Rendering
 - 🤤 Wannabe Computer Graphics Developer
-- 🎮 Developing a secret indie game at my free time (I don't have free time)
 - 🎨 Hobby Artist (3D, Pixel Art)
 
 
