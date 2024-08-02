@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @martonban
 - 🏫 Student at University of Miskolc - Web Development Specialization
 - 🤖 Developing a robot OS at evosoft
-- 📖 Currently Lerning: OpenGL and Software Rendering
+- 📖 Currently Lerning: OpenGL
 - 🤤 Wannabe Computer Graphics Developer
-- 🎨 Hobby Artist (3D, Pixel Art)
+- 🎨 Hobby Material Artist
 
 
 <a href="https://github.com/martonban/ComputerGraphicsLinks">My Graphics Link Collection</a><br>
