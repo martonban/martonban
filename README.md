@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martonban
 - 🏫 Student at University of Miskolc - Web Development Specialization
-- 📖 Currently Lerning: OpenGL
+- 📖 Currently Lerning: C++ and ray-tracing
 - 🤤 Wannabe Computer Graphics Developer
 - 🎨 Hobby Material Artist
 
