@@ -5,8 +5,8 @@
 - 🎨 Hobby Material Artist
 
 
-<a href="https://github.com/martonban/ComputerGraphicsLinks">My Graphics Link Collection</a><br>
-<!--<a href = "https://github.com/martonban/Portfolio">Portfolio</a> -->
+[Non-Graphics Projects](https://github.com/martonban/Projects)
+
 
 
 <!---
