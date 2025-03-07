@@ -5,8 +5,6 @@
 - 🎨 Hobby Material Artist
 
 
-[Non-Graphics Projects](https://github.com/martonban/Projects)
-
 
 
 <!---
