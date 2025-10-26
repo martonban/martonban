@@ -2,7 +2,7 @@
 - 🏫 Student at University of Miskolc - Web Development Specialization
 - 📖 Currently Learning: C++ and Ray-Tracing
 - 🤤 Wannabe Computer Graphics Developer
-- 🎨 Hobby Material Artist
+- 🎨 Hobby 3D Artist
 
 
 
