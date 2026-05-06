@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @martonban
-- 🏫 Student at University of Miskolc - Web Development Specialization
-- 📖 Currently Learning: C++ and Ray-Tracing
-- 🤤 Wannabe Computer Graphics Developer
-- 🎨 Hobby 3D Artist
+- 🧑‍💼 Junior Software Engineer at University of Miskolc
+- 🏫 Computer Science And Engineering Student at University of Miskolc
+- 📖 Currently Learning: C++ and Path-Tracing
+- 🤤 Aspiring Computer Graphics Developer
+- 🎨 Hobby Tech Artist
 
 
 
